@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "918341693200",
+    "project_id": "japanicarparts",
+    "storage_bucket": "japanicarparts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918341693200:android:113c40e15309eb3ab5bf95",
+        "android_client_info": {
+          "package_name": "com.hammadsohail.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918341693200-4sb1rtq9vs54ndq96odod2ec8l9fddlb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hammadsohail.awesomeproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "918341693200-r8g0rdkfp1hosn5je6r8ksgok6vbgn10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1cNCEED9aeQGzVX3rFCuVabOF6yIZO6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918341693200-r8g0rdkfp1hosn5je6r8ksgok6vbgn10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
